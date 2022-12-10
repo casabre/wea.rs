@@ -1,4 +1,4 @@
-# wea.prs
+# wea.rs
 
 ## What is wea?
 
